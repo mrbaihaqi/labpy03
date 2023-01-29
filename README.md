@@ -6,9 +6,9 @@
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Latihan 1 | [penjelasan](#Latihan-1) | [codenye](#latihan1.py) |
-| 2. | Latihan 2 | [penjelasan](#latihan-2) | [codenye](#latihan2.py) |
-| 3. | Program 1 | [penjelasan](#program-1) | [codenye](#program1.py) |
+| 1. | Latihan 1 | [penjelasan](#latihan-1) | https://github.com/mrbaihaqi/labpy03/blob/f1e9823c8aaf9411f85938c3d750d4ce6346dc80/latihan1.py |
+| 2. | Latihan 2 | [penjelasan](#latihan-2) | https://github.com/mrbaihaqi/labpy03/blob/f1e9823c8aaf9411f85938c3d750d4ce6346dc80/latihan2.py |
+| 3. | Program 1 | [penjelasan](#program-1) | https://github.com/mrbaihaqi/labpy03/blob/f1e9823c8aaf9411f85938c3d750d4ce6346dc80/program1.py |
 
 ### Latihan 1
 
